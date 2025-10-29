@@ -13,6 +13,6 @@
 
 | No | Topik | Laporan | Repository |
 |----|--------|----------|-------------|
-| 1 | UTS | [Laporan UTS](laporan/laporan1.pdf) | [Repository ZIP](laporan/uts_project.zip) |
+| 1 | UTS | [Laporan UTS](laporan/230605110080_Nida Rahmatina_UTS Teori Mobile programming.pdf) | [Repository ZIP](laporan/uts_project.zip) |
 
 
