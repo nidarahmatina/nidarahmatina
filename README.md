@@ -15,3 +15,4 @@
 |----|--------|----------|-------------|
 | 1 | UTS | [Laporan UTS](laporan/laporan1.pdf) | [Repository ZIP](laporan/uts_project.zip) |
 
+
